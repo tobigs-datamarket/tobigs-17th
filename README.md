@@ -28,25 +28,25 @@
 
 | 주차 | 강의명 | 우수과제자 |
 | :--- | :--- | :--- |
-| week1 | [EDA] | [17기 이재승](https://github.com/jason2133) |
+| week1 | [EDA](https://github.com/tobigs-datamarket/tobigs-17th/blob/master/1wk_EDA/17%EA%B8%B0%20%EC%9D%B4%EC%9E%AC%EC%8A%B9.ipynb) | [17기 이재승](https://github.com/jason2133) |
 | week1 | [Git & Framework] | [17기 5조] |
-| week2 | [Regression (1)] | [17기 임수진](https://github.com/sujjin) |
-| week2 | [Regression (2)] | [17기 김현태](https://github.com/hyuntai97) |
-| week2 | [Regression (3)] | [17기 유현우](https://github.com/yhw4343) |
-| week2 | [Optimization] | [17기 이혁종](https://github.com/hyeok-jong) |
+| week2 | [Regression (1)](https://github.com/tobigs-datamarket/tobigs-17th/blob/master/2wk_Regression/%EA%B3%BC%EC%A0%9C%201_17%EA%B8%B0%20%EC%9E%84%EC%88%98%EC%A7%84.ipynb) | [17기 임수진](https://github.com/sujjin) |
+| week2 | [Regression (2)](https://github.com/tobigs-datamarket/tobigs-17th/blob/master/2wk_Regression/%EA%B3%BC%EC%A0%9C%202_17%EA%B8%B0%20%EA%B9%80%ED%98%84%ED%83%9C.ipynb) | [17기 김현태](https://github.com/hyuntai97) |
+| week2 | [Regression (3)](https://github.com/tobigs-datamarket/tobigs-17th/blob/master/2wk_Regression/%EA%B3%BC%EC%A0%9C%203_17%EA%B8%B0%20%EC%9C%A0%ED%98%84%EC%9A%B0.ipynb) | [17기 유현우](https://github.com/yhw4343) |
+| week2 | [Optimization](https://github.com/tobigs-datamarket/tobigs-17th/blob/master/2wk_Optimization/17%EA%B8%B0%20%EC%9D%B4%ED%98%81%EC%A2%85.ipynb) | [17기 이혁종](https://github.com/hyeok-jong) |
 | week3 | [SVM & SVR] | [17기] |
-| week3 | [Naive Bayes] | [17기 이혁종](https://github.com/hyeok-jong) |
-| week3 | [Decision Tree] | [17기 김정민](https://github.com/positivejmk) |
-| week4 | [Dimensionality Reduction] | [17기 김현태](https://github.com/hyuntai97), [17기 나다경](https://github.com/NaDaGyeong), [17기 염제윤](https://github.com/emforce77) |
-| week4 | [Clustering] | [17기 신은아](https://github.com/ShinEuna) |
-| week5 | [NeuralNet Basic] | [17기 나다경](https://github.com/NaDaGyeong), [17기 임수진](https://github.com/sujjin) |
+| week3 | [Naive Bayes](https://github.com/tobigs-datamarket/tobigs-17th/blob/master/3wk_Naive%20Bayes/17%EA%B8%B0%20%EC%9D%B4%ED%98%81%EC%A2%85.ipynb) | [17기 이혁종](https://github.com/hyeok-jong) |
+| week3 | [Decision Tree](https://github.com/tobigs-datamarket/tobigs-17th/blob/master/3wk_Decision%20Tree/17%EA%B8%B0%20%EA%B9%80%EC%A0%95%EB%AF%BC.ipynb) | [17기 김정민](https://github.com/positivejmk) |
+| week4 | [Dimensionality Reduction](https://github.com/tobigs-datamarket/tobigs-17th/tree/master/4wk_Dimensionality%20Reduction) | [17기 김현태](https://github.com/hyuntai97), [17기 나다경](https://github.com/NaDaGyeong), [17기 염제윤](https://github.com/emforce77) |
+| week4 | [Clustering](https://github.com/tobigs-datamarket/tobigs-17th/blob/master/4wk_Clustering/17%EA%B8%B0%20%EC%8B%A0%EC%9D%80%EC%95%84.ipynb) | [17기 신은아](https://github.com/ShinEuna) |
+| week5 | [NeuralNet Basic](https://github.com/tobigs-datamarket/tobigs-17th/tree/master/5wk_NeuralNet%20Basic) | [17기 나다경](https://github.com/NaDaGyeong), [17기 임수진](https://github.com/sujjin) |
 | week5 | [Ensemble] | [17기] |
-| week6 | [NeuralNet Advanced] | [17기 박나윤](https://github.com/nayun12) |
-| week6 | [Time-Series] | [17기 나세연](https://github.com/seyeonrha) |
-| week7 | [Vision Basic] | [17기 이혁종](https://github.com/hyeok-jong) |
+| week6 | [NeuralNet Advanced](https://github.com/tobigs-datamarket/tobigs-17th/blob/master/6wk_NeuralNet%20Advanced/17%EA%B8%B0%20%EB%B0%95%EB%82%98%EC%9C%A4.ipynb) | [17기 박나윤](https://github.com/nayun12) |
+| week6 | [Time-Series](https://github.com/tobigs-datamarket/tobigs-17th/blob/master/6wk_Time-Series/17%EA%B8%B0%20%EB%82%98%EC%84%B8%EC%97%B0.ipynb) | [17기 나세연](https://github.com/seyeonrha) |
+| week7 | [Vision Basic](https://github.com/tobigs-datamarket/tobigs-17th/tree/master/7wk_Vision%20Basic) | [17기 이혁종](https://github.com/hyeok-jong) |
 | week7 | [Vision Advanced] | [17기 박나윤](https://github.com/nayun12), [17기 이혁종](https://github.com/hyeok-jong) |
-| week8 | [NLP Basic] | [17기 김정민](https://github.com/positivejmk) |
-| week8 | [NLP Advanced] | [17기 김현태](https://github.com/hyuntai97), [17기 이혁종](https://github.com/hyeok-jong) |
+| week8 | [NLP Basic](https://github.com/tobigs-datamarket/tobigs-17th/blob/master/8wk_NLP%20Basic/17%EA%B8%B0%20%EA%B9%80%EC%A0%95%EB%AF%BC.ipynb) | [17기 김정민](https://github.com/positivejmk) |
+| week8 | [NLP Advanced](https://github.com/tobigs-datamarket/tobigs-17th/tree/master/8wk_NLP%20Advanced) | [17기 김현태](https://github.com/hyuntai97), [17기 이혁종](https://github.com/hyeok-jong) |
 | week9 | [Recommender system Basic] | [17기] |
 | week9 | [Recommender system Advanced] | [17기] |
 | week10 | [Generative Basic] | [17기] |
